@@ -1,2 +1,2 @@
-# Laborat-rios-Packet-Tracer
+# Laboratorios-Packet-Tracer
 Projetos de redes e cibersegurança executados no programa do Cisco Packet Tracer
